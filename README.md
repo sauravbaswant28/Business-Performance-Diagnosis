@@ -23,7 +23,9 @@ Why is the company's profit margin declining despite revenue growth, and what ac
 - Finance Transformation recorded the highest service-line profit margin at 26.94%.
 
 5] Project Objective
+
 To investigate the factors associated with declining profitability and provide data-driven recommendations to support business decision-making.
 
 @ Project Status @
+
 Completed.
